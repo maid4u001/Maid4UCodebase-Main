@@ -16,7 +16,11 @@ public class MaidLoginTest {
 		this.pwd = pwd;
 	}
 	
-	
+	public static void main(String args[]) {
+		
+		System.out.println("My Application started successfully..!!!");
+		
+	}
 	
 
 }
